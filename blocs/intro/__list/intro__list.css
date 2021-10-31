@@ -1,0 +1,10 @@
+.intro__list {
+  grid-column: 2/3;
+  list-style: none;
+  padding: 0;
+  margin: 33px 0 0 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+}

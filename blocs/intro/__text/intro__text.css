@@ -1,0 +1,8 @@
+.intro__text {
+  grid-column: 2/3;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 163%;
+  margin: 40px 0 0 0;
+}
