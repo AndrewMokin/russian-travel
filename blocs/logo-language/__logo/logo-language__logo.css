@@ -1,3 +1,10 @@
+.logo-language__logo {
+  background-image: url(../../../images/header-logo.svg);
+  width: 176px;
+  height: 52px;
+  background-size: cover;
+}
+
 @media screen and (max-width: 767px) {
   .logo-language__logo {
     width: 142px;
