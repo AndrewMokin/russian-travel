@@ -1,6 +1,19 @@
 .cover__link {
   text-decoration: none;
   color: #FFFFFF;
+}
+
+.cover__link::before {
+  content: '';
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
+  position: absolute;
+  width: 100%;
+  padding-top: 62.5%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
 }
