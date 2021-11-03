@@ -1,0 +1,14 @@
+.title-picture {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 984px;
+  margin: 0 auto 0 auto;
+}
+
+@media screen and (max-width: 1279px) {
+  .title-picture {
+    max-width: 928px;
+  }
+}
+

@@ -1,0 +1,25 @@
+.title-picture__image {
+  max-width: 984px;
+  margin: 64px 0 0 0;
+
+}
+
+@media screen and (max-width: 1279px) {
+  .title-picture__image {
+    max-width: 928px;
+    margin-top: 56px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .title-picture__image {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .title-picture__image {
+    margin-top: 40px;
+  }
+}
+
